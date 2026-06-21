@@ -21,7 +21,7 @@ My interests include:
 
 ## Projects 📌
 
-### [Births, Beats & Basketball](https://github.com/[your-username]/Will-Bowden_dataviz-mini-project-2)
+### [Births, Beats & Basketball](https://github.com/WillBowden8/Will-Bowden_dataviz-mini-project-2)
 
 An R Markdown report exploring three unrelated datasets through five distinct visualizations:
 
